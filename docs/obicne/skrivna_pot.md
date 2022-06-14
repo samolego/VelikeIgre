@@ -9,7 +9,7 @@ ki si jo je zamislil animator.
 
 Na tla narišemo šahovnico (načeloma poljubne
 velikosti, a `8x8` je kar perfektna).
-*Šahovnica naj bo velika, s polji okoli `1 m^2`.*
+*Dimenzije šahovnice naj bodo velike, s polji okoli `1 m^2`.*
 
 Na list papirja si animator
 prav tako nariše šahovnico ter označi
