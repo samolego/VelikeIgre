@@ -17,9 +17,20 @@ Kako prilagoditi igro v določeni situaciji?
 Kako se igra točkuje? Je treba biti pozoren
 na kaj posebnega?
 
+## Lokacija
+
+*Obkljukaj, kje se lahko igra odvija.*
+Npr. če so potrebni koši za košarko,
+odkljukaj igrišče, vendar ne travnika.
+
+- [x] dvorišče / parkirišče
+- [ ] igrišče
+- [x] učilnica
+- [ ] travnik
+
 ## Potrebščine
 
 | Stvar       | Količina     |
-| ----------- | ------------ |
+| ----------- | -----------: |
 | Dobra volja | 1            |
 | Božja pomoč | neizmerljivo |

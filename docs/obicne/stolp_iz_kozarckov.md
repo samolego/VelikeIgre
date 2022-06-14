@@ -15,7 +15,7 @@ zatem pa jo podreti in ponoviti nalogo.
 Če se stolp med gradnjo podre,
 seveda ne šteje med izgrajene.
 
-??? note "Izgled stolpa"
+??? question "Izgled stolpa"
     ```
         /\
        /\/\
@@ -36,8 +36,17 @@ stolp (in ga pospraviti :wink:) v `?` minutah.
 uspela postaviti, je kar enako
 številu prejetih točk.
 
+## Lokacija
+
+*Nek nevetroven prostor.*
+
+- [ ] dvorišče / parkirišče
+- [ ] igrišče
+- [x] učilnica
+- [ ] travnik
+
 ## Potrebščine
 | Stvar       | Količina   |
-| ----------- | ---------- |
+| ----------- | ---------: |
 | Kozarčki    | 15         |
 | Štoparica   | 1          |
