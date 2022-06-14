@@ -18,8 +18,8 @@ Spletišče je organizirano na način,
 da so igre razdeljene na 3 kategorije.
 
 - obične
-- vodne
-- blatne
+- ~~blatne~~ (todo)
+- ~~vodne~~ (todo)
 
 *Za konec pa še nekaj osebnih nasvetov :wink:*
 
