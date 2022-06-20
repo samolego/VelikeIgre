@@ -21,8 +21,9 @@ Za vsako besedo ima na voljo 30 sekund.
 Po potrebi določite več otrok, ki bodo
 izmenično ugotavljali besede.
 
-Če igro želite izvajati na poljubnem kraju, temu
-primerno prilagodite število besed.
+Če igro želite izvajati na poljubnem kraju
+(beri: nekje, kjer besede slišijo tudi druge skupine),
+temu primerno prilagodite število besed.
 
 Lahko jim poveste, da je `v slogi moč`.
 Če se besedo zaderejo na `3, 4, zdaj` jo
