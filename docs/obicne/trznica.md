@@ -11,7 +11,7 @@ Otroci pojejo, plešejo, se derejo, igrajo, vse kar jim srce poželi.
 ## Nasveti
 
 Animator naj se dela zdolgočasenega, utrujenega itd.
-Lahko si zaželi vode, razvedrila ali pa ga le pustijo
+Lahko si zaželi vode, razvedrila ali pa da ga le pustijo
 spati in mu zapojejo uspavanko :smile:.
 
 ## Točkovanje
