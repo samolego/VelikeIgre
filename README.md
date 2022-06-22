@@ -15,10 +15,7 @@ za vse, ki niste vešči git-a. Vse lahko
 postorite v brskalniku 😉.
 
 Ko bom združil vaše spremembe, bodo te samodejno objavljene na spletni strani 😃.
-
-
-[![Navodila](http://img.youtube.com/vi/q-jZyt404fs/0.jpg)](https://www.youtube-nocookie.com/embed/q-jZyt404fs "Video Title")
-
+[![Dodajanje velike igre v zbirko](https://user-images.githubusercontent.com/34912839/174974535-6526ee5b-4ff1-48ae-ab63-aa4c533e3cae.png)](https://www.youtube-nocookie.com/embed/q-jZyt404fs "Dodajanje velike igre v zbirko")
 
 ### Pisni postopek
 
