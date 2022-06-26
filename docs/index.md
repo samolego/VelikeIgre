@@ -21,7 +21,18 @@ da so igre razdeljene na 3 kategorije.
 - ~~blatne~~ (todo)
 - ~~vodne~~ (todo)
 
-*Za konec pa še nekaj osebnih nasvetov :wink:*
+## Rad bi dodal lastne igre, pa ne znam :shrug:
+
+Brez skrbi, tukajle je en priročen video
+za vse, ki niste vešči git-a. Vse lahko
+postorite v brskalniku :wink:.
+
+<iframe src="https://www.youtube-nocookie.com/embed/q-jZyt404fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ko bom združil vaše spremembe, bodo te samodejno objavljene na spletni strani :smile:.
+
+
+## Za konec pa še nekaj osebnih nasvetov :wink:
 
 - Če za igre seštevate točke skozi cel teden,
     pazite, da igre ne bodo en dan zmagovalni
@@ -41,5 +52,5 @@ da so igre razdeljene na 3 kategorije.
         2. mesto: 98 točk
         3. mesto: 96 točk
         ...
-        n. mesto: 100 - n * 2 točk
+        n. mesto: 100 - ((n - 1) * 2) točk
         ```
