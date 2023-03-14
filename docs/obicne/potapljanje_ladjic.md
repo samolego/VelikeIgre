@@ -47,12 +47,13 @@ Vsaka zbita ladja prinese eno točko.
 
 ## Lokacija
 
-*Ni posebnih omejitev.*
+Priporočljivo je, da je na voljo več
+prostora.
 
 - [x] dvorišče / parkirišče
 - [x] igrišče
-- [x] učilnica
-- [ ] travnik
+- [ ] učilnica
+- [x] travnik
 
 ## Potrebščine
 
